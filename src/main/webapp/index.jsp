@@ -105,7 +105,7 @@
 
         <label>Confirm Password</label>
         <input type="password" placeholder="Confirm password" required>
-        <button type="clear" class="btn">Clear</button>
+        <button type="clear" class="btn">Clear</button><br>
         <button type="submit" class="btn">Register</button>
     </form>
     <div class="note">
